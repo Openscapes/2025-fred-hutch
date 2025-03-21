@@ -3,7 +3,9 @@
 
 # 2025 Fred Hutch
 
-Welcome to the 2025 Fred Hutch Cohort! This is a Cohort for the **Fred Hutchinson Cancer Center**, sponsored by the [Fred Hutch Data Science Lab (DaSL)](https://hutchdatascience.org/). This follows the successful first Fred Hutch Openscapes Champions Cohort in 2023. To learn more about what to expect (the purpose, outcomes, and process of our Cohort) and to browse the open lesson materials, please see the [Champions Program Lesson Series](https://openscapes.github.io/series).
+Welcome to the 2025 Fred Hutch Openscapes Champions Cohort! This is a Cohort for the **Fred Hutchinson Cancer Center**, sponsored by the [Fred Hutch Data Science Lab (DaSL)](https://hutchdatascience.org/). To learn more about what to expect (the purpose, outcomes, and process of our Cohort) and to browse the open lesson materials, please see the [Champions Program Lesson Series](https://openscapes.github.io/series).
+
+This follows the successful first Fred Hutch Openscapes Champions Cohort in 2023. Read about the [On-ramp to Open Science at the Fred Hutch Cancer Center](https://openscapes.org/blog/2023-12-04-fred-hutch/), 2023 Fred Hutch Openscapes Champions Wrap-up. 
 
 <img src="horst-champions-trailhead.png" align="right" width="450">
 
@@ -60,6 +62,7 @@ Sean Kross (@seankross, Fred Hutch)
 Ted Laderas (@laderast), Fred Hutch
 Sitapriya Moorthi (@sitapriyamoorthi), Fred Hutch
 Chris Lo (@caalo), Fred Hutch
+Monica Gerber (@monicagerber), Fred Hutch
 
 ## More about Openscapes and the Champions program:
 
