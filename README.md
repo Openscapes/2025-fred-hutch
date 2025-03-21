@@ -5,7 +5,7 @@
 
 Welcome to the 2025 Fred Hutch Openscapes Champions Cohort! This is a Cohort for the **Fred Hutchinson Cancer Center**, sponsored by the [Fred Hutch Data Science Lab (DaSL)](https://hutchdatascience.org/). To learn more about what to expect (the purpose, outcomes, and process of our Cohort) and to browse the open lesson materials, please see the [Champions Program Lesson Series](https://openscapes.github.io/series).
 
-This follows the successful first Fred Hutch Openscapes Champions Cohort in 2023. Read about the [On-ramp to Open Science at the Fred Hutch Cancer Center](https://openscapes.org/blog/2023-12-04-fred-hutch/), 2023 Fred Hutch Openscapes Champions Wrap-up. 
+This follows the successful first Fred Hutch Openscapes Champions Cohort in 2023. Read about the On-ramp to Open Science at the Fred Hutch Cancer Center, [2023 Fred Hutch Openscapes Champions Wrap-up](https://openscapes.org/blog/2023-12-04-fred-hutch/). 
 
 <img src="horst-champions-trailhead.png" align="right" width="450">
 
@@ -24,10 +24,10 @@ live google-docing. Please see <https://openscapes.org/series> to view blank ver
 
 | Cohort Call Topics | Lesson Series Chapters | Seaside Chat Topics |
 |----|----|----|
-| 1\. Openscapes mindset | [mindset](https://openscapes.github.io/series/mindset), [better science for future us](https://openscapes.github.io/series/core-lessons/better-science) | Seaside Chat (trailhead) |
+| 1\. Openscapes mindset | [mindset](https://openscapes.github.io/series/mindset), [better science for future us](https://openscapes.github.io/series/core-lessons/better-science) | Pathway trailhead; create GitHub accounts |
 | 2\. GitHub for publishing & project management | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | Seaside Chat: shared organizing with GitHub |
-| 3\. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://openscapes.github.io/series/core-lessons/data-strategies) | Seaside Chat (code of conduct) |
-| 4\. Open communities and coding strategies for future us | [open communities](https://openscapes.github.io/series/core-lessons/communities), [coding strategies](https://openscapes.github.io/series/core-lessons/coding-strategies) | Seaside Chat (pathway) |
+| 3\. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://openscapes.github.io/series/core-lessons/data-strategies) | Onboarding documentation |
+| 4\. Open communities and coding strategies for future us | [open communities](https://openscapes.github.io/series/core-lessons/communities), [coding strategies](https://openscapes.github.io/series/core-lessons/coding-strategies) | Pathways preparation |
 | 5\. Pathways share and next steps | [pathways](https://openscapes.github.io/series/core-lessons/pathways) |  |
 
 <!---TODO: link to issues labeled 'digest'. 
