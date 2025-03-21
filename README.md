@@ -3,11 +3,7 @@
 
 # 2025 Fred Hutch
 
-Welcome to the 2025 Fred Hutch Cohort! This is a Cohort for \[TODO: who
-is this cohort for?\]. To learn more about what to expect (the purpose,
-outcomes, and process of our Cohort) and to browse the open lesson
-materials, please see the [Champions Program Lesson
-Series](https://openscapes.github.io/series).
+Welcome to the 2025 Fred Hutch Cohort! This is a Cohort for the **Fred Hutchinson Cancer Center**, sponsored by the [Fred Hutch Data Science Lab (DaSL)](https://hutchdatascience.org/). This follows the successful first Fred Hutch Openscapes Champions Cohort in 2023. To learn more about what to expect (the purpose, outcomes, and process of our Cohort) and to browse the open lesson materials, please see the [Champions Program Lesson Series](https://openscapes.github.io/series).
 
 <img src="horst-champions-trailhead.png" align="right" width="450">
 
@@ -20,20 +16,9 @@ hours each:
 - **Times:** 10:00 - 11:30 am PT
 - **Location:** remotely, via Zoom
 
-Agendas are accessible to Cohort participants in our \[Cohort Google
-Drive Folder\] \[TODO:link to folder\]; they are also an archive of our
-live google-docing. Please see <https://openscapes.org/series> to view
-blank versions of the agendas.
-
-<!---TODO create schedule table programmatically
-&#10;|Date  |Cohort Call Topics                                   |
-|:-----|:----------------------------------------------------|
-|04/09 |Openscapes mindset                                   |
-|04/23 |GitHub for publishing & project management           |
-|05/07 |Team culture and data strategies for future us       |
-|05/21 |Open communities and coding strategies for future us |
-|06/04 |Pathways share and next steps                        |
---->
+Agendas are accessible to Cohort participants in our [Cohort Google
+Drive Folder](https://drive.google.com/drive/folders/1SXfIG9HkXVym29mZrsPJoiqRaIghJa4k?usp=drive_link); they are also an archive of our
+live google-docing. Please see <https://openscapes.org/series> to view blank versions of the agendas.
 
 | Cohort Call Topics | Lesson Series Chapters | Seaside Chat Topics |
 |----|----|----|
@@ -57,19 +42,24 @@ questions and screensharing to learn and problem solve. We will make
 breakout rooms so people working on related themes can meet and learn
 from each other.
 
-- **Dates:**
-- **Times:**
+- **Dates:** TBD
+- **Times:** TBD
 - **Location:** remotely, via Zoom
 
-## Participating teams and individuals
+## Participating labs and individuals
 
-Some brief information about participating teams and individuals. Please
-add any edits directly (we’ll learn how in our GitHub Clinic!)
+Some brief information about participating labs and individuals. Please
+add any edits directly (we’ll learn how in our GitHub Clinic!).
 
 ## Our Team
 
-Julie Lowndes (@jules32), Openscapes Stefanie Butland
-(@stefaniebutland), Openscapes Andy Teucher (@teucher), Openscapes
+Julie Lowndes (@jules32), Openscapes 
+Stefanie Butland (@stefaniebutland), Openscapes
+Andy Teucher (@teucher), Openscapes
+Sean Kross (@seankross, Fred Hutch)
+Ted Laderas (@laderast), Fred Hutch
+Sitapriya Moorthi (@sitapriyamoorthi), Fred Hutch
+Chris Lo (@caalo), Fred Hutch
 
 ## More about Openscapes and the Champions program:
 
