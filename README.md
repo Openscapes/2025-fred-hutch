@@ -55,14 +55,14 @@ add any edits directly (we’ll learn how in our GitHub Clinic!).
 
 ## Our Team
 
-Julie Lowndes (@jules32), Openscapes 
-Stefanie Butland (@stefaniebutland), Openscapes
-Andy Teucher (@teucher), Openscapes
-Sean Kross (@seankross, Fred Hutch)
-Ted Laderas (@laderast), Fred Hutch
-Sitapriya Moorthi (@sitapriyamoorthi), Fred Hutch
-Chris Lo (@caalo), Fred Hutch
-Monica Gerber (@monicagerber), Fred Hutch
+Julie Lowndes (@jules32), Openscapes   
+Stefanie Butland (@stefaniebutland), Openscapes  
+Andy Teucher (@teucher), Openscapes  
+Sean Kross (@seankross), Fred Hutch  
+Ted Laderas (@laderast), Fred Hutch  
+Sitapriya Moorthi (@sitapriyamoorthi), Fred Hutch  
+Chris Lo (@caalo), Fred Hutch  
+Monica Gerber (@monicagerber), Fred Hutch  
 
 ## More about Openscapes and the Champions program:
 
