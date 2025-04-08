@@ -44,8 +44,8 @@ questions and screensharing to learn and problem solve. We will make
 breakout rooms so people working on related themes can meet and learn
 from each other.
 
-- **Dates:** TBD
-- **Times:** TBD
+- **Dates:** April 16, 30, May 14, 28
+- **Times:** 12:00 - 1:00 pm PT
 - **Location:** remotely, via Zoom
 
 ## Participating labs and individuals
