@@ -15,7 +15,7 @@ Next, make an edit to the text in this file. One idea is to fix this **typo** (*
 3. [***Lab webpage***](https://research.fredhutch.org/blanco-melo/en.html)
 4. Image (down)
 
-![]()
+![](./Ghostbusters.jpg)
 
 Finally, we will commit these edits to GitHub. To do this, press the green "Commit Changes..." button. Committing changes has two steps: write a human-readable Commit message, and press the green button to commit changes. 
 
