@@ -6,7 +6,15 @@ Working on GitHub.com, we contribute changes through **commits**. You'll practic
 
 Let's edit this file by clicking the pencil icon at the top-right of the file. 
 
-Next, make an edit to the text in this file. One idea is to fix this tpyo. 
+Next, make an edit to the text in this file. One idea is to fix this typo! 
+
+<details> <summary>Word Dump</summary>
+When we carry out our experiment, we perform some form of measurement on our samples, such as an experimental assay. Then, it is common to look at the mean and variance of our measurements to summarize our samples. This sample mean and sample variance are our best guess at the population mean and population variance.
+
+There is a crucial relationship between samples, populations, and sample size: As the sample size gets larger, then the sample mean approaches the population mean and the sample variance approaches the population variance. This is called the Law of Large Numbers.
+
+Let's take at the following experiment as a demo: The goal of this study was to determine the effect of an upper-respiratory infection on changes in RNA transcription occurring in the cerebellum on mouse models. Control mice were inoculated with saline at Day 0 and measured on the same day. Case mice were inoculated with Influenza A and measured at day 8 post-infection.
+</details>
 
 Finally, we will commit these edits to GitHub. To do this, press the green "Commit Changes..." button. Committing changes has two steps: write a human-readable Commit message, and press the green button to commit changes. 
 
