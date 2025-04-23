@@ -47,3 +47,4 @@ Your turn! Change or **add** something in Markdown and make another commit: writ
 It's a lot to get familiar with markdown if you haven't used it previously! 
 
 ### additional notes
+<details><summary>MY TITLE </summary> text dump goes here in hidden that is collapsed</details>
