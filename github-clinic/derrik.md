@@ -1,4 +1,4 @@
-<details>
+<details><summary>Everything</summary>
 
 # GitHub practice from the browser
 
