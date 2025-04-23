@@ -10,7 +10,7 @@ Next, make an edit to the text in this file. One idea is to fix this typo. Done.
 
 Finally, we will commit these edits to GitHub. To do this, press the green "Commit Changes..." button. Committing changes has two steps: write a human-readable Commit message, and press the green button to commit changes. 
 
-Note: In the browser, GitHub will suggest "Update file.md" as the commit message. But you can be more descriptive - practice writing commit messages that help you remember detail about what you changed.
+Note: In the browser, GitHub will suggest "Update file.md" as the **commit** *message*. But you can be more descriptive - practice writing commit messages that help you remember detail about what you changed.
 
 ## Task 2: Practice Markdown 
 
@@ -21,7 +21,7 @@ This file is written in Markdown, which formats text on the web. To see the Mark
 We can make words **bold** or *italic*.
 
 ### We can make headers.
-
+      
 We can make lists – *note that lists need an empty line before list items!*
 
 1. bananas
@@ -44,4 +44,4 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 
 ## NOTES
 
-It's a lot to get familiar with markdown if you haven't used it previously! 
+It's a lot to get familiar with [markdown](https://quarto.org/docs/authoring/markdown-basics.html) if you haven't used it previously! 
