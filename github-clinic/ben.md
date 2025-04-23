@@ -47,6 +47,8 @@ On GitHub we can make checkable check boxes... but I always forget how...
 - [ ] box one
 - [ ] box two
 
+*I guess they are only clickable in issues...?*
+
 ## NOTES
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
