@@ -30,24 +30,9 @@ We can make lists – *note that lists need an empty line before list items!*
 2. tamales
 3. cakes
 
-We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
-
-> [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
-
-We can make an indented quote block with the `>` symbol, as in the example above.
-
-> It is not the critic who counts: not the man who points out how the strong man stumbles or where the doer of deeds could have done better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood, who strives valiantly, who errs and comes up short again and again, because there is no effort without error or shortcoming - Theodore Roosevelt
-
-We can include an image with the same `[]()` pattern, by adding a preceding exclamation point: `![]()`. For example: 
-
-![](../horst-champions-trailhead.png)
+## Quote from Theodore Roosevelt
 
 ![](http://trcp.wpengine.com/wp-content/uploads/2012/06/RReflect_Jan_1_by-Tade-Styka.jpg)
 
-*Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
+> It is not the critic who counts: not the man who points out how the strong man stumbles or where the doer of deeds could have done better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood, who strives valiantly, who errs and comes up short again and again, because there is no effort without error or shortcoming - Theodore Roosevelt
 
-Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
-
-## NOTES
-
-It's a lot to get familiar with markdown if you haven't used it previously! 
