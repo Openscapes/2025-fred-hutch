@@ -14,6 +14,8 @@ When we carry out our experiment, we perform some form of measurement on our sam
 There is a crucial relationship between samples, populations, and sample size: As the sample size gets larger, then the sample mean approaches the population mean and the sample variance approaches the population variance. This is called the Law of Large Numbers.
 
 Let's take at the following experiment as a demo: The goal of this study was to determine the effect of an upper-respiratory infection on changes in RNA transcription occurring in the cerebellum on mouse models. Control mice were inoculated with saline at Day 0 and measured on the same day. Case mice were inoculated with Influenza A and measured at day 8 post-infection.
+
+blobity blobity
 </details>
 
 Finally, we will commit these edits to GitHub. To do this, press the green "Commit Changes..." button. Committing changes has two steps: write a human-readable Commit message, and press the green button to commit changes. 
