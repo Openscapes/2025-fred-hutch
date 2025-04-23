@@ -1,3 +1,6 @@
+<img width="1065" alt="image" src="https://github.com/user-attachments/assets/82ee2fb3-2504-4135-be0b-bcf1b9295d94" />
+
+
 <details><summary>Everything</summary>
 
 # GitHub practice from the browser
