@@ -36,9 +36,13 @@ We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-
 
 We can make an indented quote block with the `>` symbol, as in the example above.
 
+> It is not the critic who counts: not the man who points out how the strong man stumbles or where the doer of deeds could have done better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood, who strives valiantly, who errs and comes up short again and again, because there is no effort without error or shortcoming - Theodore Roosevelt
+
 We can include an image with the same `[]()` pattern, by adding a preceding exclamation point: `![]()`. For example: 
 
 ![](../horst-champions-trailhead.png)
+
+![](http://trcp.wpengine.com/wp-content/uploads/2012/06/RReflect_Jan_1_by-Tade-Styka.jpg)
 
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
