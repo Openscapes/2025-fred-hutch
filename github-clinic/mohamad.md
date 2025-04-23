@@ -50,6 +50,7 @@ Now adding a random list:
 1. a
 2. b
 3. c
+   
 ## NOTES
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
