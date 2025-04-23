@@ -1,7 +1,13 @@
 <img width="1065" alt="image" src="https://github.com/user-attachments/assets/82ee2fb3-2504-4135-be0b-bcf1b9295d94" />
 
 
-<details><summary>Everything</summary>
+<details><summary>A bunch of gross text</summary>
+
+```
+ew code
+```
+
+</details>
 
 # GitHub practice from the browser
 
@@ -51,4 +57,3 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
 
-</details>
