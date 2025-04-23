@@ -43,5 +43,11 @@ We can include an image with the same `[]()` pattern, by adding a preceding excl
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
 
 ## NOTES
+### this is a header
+*here is the recipe*
+
+> 1. cheese
+> 2. sauce
+> 3. love 
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
