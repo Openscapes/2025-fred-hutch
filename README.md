@@ -5,7 +5,7 @@
 
 Welcome to the 2025 Fred Hutch Openscapes Champions Cohort! This is a Cohort for the **Fred Hutchinson Cancer Center**, sponsored by the [Fred Hutch Data Science Lab (DaSL)](https://hutchdatascience.org/). To learn more about what to expect (the purpose, outcomes, and process of our Cohort) and to browse the open lesson materials, please see the [Champions Program Lesson Series](https://openscapes.github.io/series).
 
-This follows the successful first Fred Hutch Openscapes Champions Cohort in 2023. Read about the On-ramp to Open Science at the Fred Hutch Cancer Center, [2023 Fred Hutch Openscapes Champions Wrap-up](https://openscapes.org/blog/2023-12-04-fred-hutch/). 
+This Cohort is completed. Read about it in ["Taking stock" to support infrastructure and people at the Fred Hutch](https://openscapes.org/blog/2025-07-09-fred-hutch-champions-2025/). This follows the successful first Fred Hutch Openscapes Champions Cohort in 2023. Read about the On-ramp to Open Science at the Fred Hutch Cancer Center, [2023 Fred Hutch Openscapes Champions Wrap-up](https://openscapes.org/blog/2023-12-04-fred-hutch/). 
 
 <img src="horst-champions-trailhead.png" align="right" width="450">
 
